@@ -1,0 +1,6 @@
+{
+  "name": "Abyss - Secret World Under the Ocean",
+  "description": "An interactive vertical scroll deep-ocean expedition exploring depths from the sunlit surface to the 11,000m Hadal trenches and sub-seafloor biosphere.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
